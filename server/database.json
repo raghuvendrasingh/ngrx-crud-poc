@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Testing 55",
+      "description": "Iure qui commodi occaecati qui ipsum. Natus quas cumque.",
+      "price": "395.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 4671
+    },
+    {
+      "id": 2,
+      "name": "Testing 44342tte",
+      "description": "Dicta impedit voluptatem id ea officia dolorum rerum quo. Ipsam pariatur ipsum omnis.",
+      "price": "895.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 89653
+    },
+    {
+      "id": 3,
+      "name": "Testing 33",
+      "description": "Hic ea sint alias eum quis aut aut. Rerum animi sed.",
+      "price": "401.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 51737
+    },
+    {
+      "id": 4,
+      "name": "Test 222",
+      "description": "Aut ullam voluptatem dignissimos rerum earum illum error. Quia fuga totam vero quisquam et delectus suscipit quaerat.",
+      "price": "708.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 37450
+    },
+    {
+      "name": "Test new",
+      "description": "testing new",
+      "price": "24",
+      "quantity": 432423,
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "description": "ksjfdlj",
+      "price": "342",
+      "quantity": 342,
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "id": 6
+    },
+    {
+      "name": "Testing additino",
+      "description": "This is to test the addition",
+      "price": "3243",
+      "quantity": 32423,
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "id": 7
+    },
+    {
+      "name": "Testing the sttate change",
+      "description": "This is to test the state change",
+      "price": "342",
+      "quantity": 324,
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "id": 8
+    },
+    {
+      "name": "Tracking state change",
+      "description": "Tracking the state change",
+      "price": "34",
+      "quantity": 4322,
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "id": 10
+    }
+  ]
+}
